@@ -1,0 +1,5 @@
+2022-05-19 00:00:17.162763
+S-D9-ML350 Параметры : 4 vCPU core; 4 GB RAM; 100 GB Debian 9.13 - Не развернулась
+S-C8-ML150 Параметры : 6 vCPU core; 8 GB RAM; 150 GB Ubuntu 20.04.1 LTS - Развернулась
+S-U20-ML50 Параметры : 2 vCPU core; 2 GB RAM; 50 GB Ubuntu 20.04.1 LTS - Не развернулась
+S-D9-ML350 Параметры : 4 vCPU core; 4 GB RAM; 100 GB Debian 9.13 - Не развернулась
